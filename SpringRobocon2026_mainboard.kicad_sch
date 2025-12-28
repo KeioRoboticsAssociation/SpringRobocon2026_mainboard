@@ -14945,25 +14945,24 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "5f2862dc-366e-4ebf-8d8a-89f9455a9350")
 		(property "Reference" "F1"
-			(at 71.12 35.56 90)
+			(at 71.12 34.29 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "Polyfuse"
-			(at 71.12 38.1 90)
+		(property "Value" "MF-NSMF035X"
+			(at 71.12 36.83 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D8.0mm_W2.5mm_P5.00mm"
+		(property "Footprint" "MyLib:PolyFuse_MF-NSMF-series"
 			(at 76.2 39.37 0)
 			(effects
 				(font
@@ -15806,7 +15805,7 @@
 		(dnp no)
 		(uuid "70aa7645-cb03-4b0f-a266-515b8804e3e1")
 		(property "Reference" "D1"
-			(at 81.28 34.29 0)
+			(at 81.28 37.846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15814,7 +15813,7 @@
 			)
 		)
 		(property "Value" "RB168MM100TR"
-			(at 81.28 36.83 0)
+			(at 81.28 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
