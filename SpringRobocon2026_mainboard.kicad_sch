@@ -6577,7 +6577,7 @@
 	)
 	(text "SENSOR"
 		(exclude_from_sim no)
-		(at 316.23 154.432 0)
+		(at 316.23 152.146 0)
 		(effects
 			(font
 				(size 5.08 5.08)
@@ -6598,10 +6598,10 @@
 	)
 	(text "SOLENOID"
 		(exclude_from_sim no)
-		(at 251.206 160.02 0)
+		(at 240.284 155.194 0)
 		(effects
 			(font
-				(size 3 3)
+				(size 5 5)
 			)
 			(justify left bottom)
 		)
@@ -6882,7 +6882,7 @@
 	)
 	(text "DCMD"
 		(exclude_from_sim no)
-		(at 374.65 153.67 0)
+		(at 374.65 151.638 0)
 		(effects
 			(font
 				(size 5.08 5.08)
